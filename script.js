@@ -6,7 +6,7 @@ const V2SA_DEMOS = [
       gt: "./assets/v2sa/1WFJLucjK50_529/1WFJLucjK50_529_gt.wav",
       visage: "./assets/v2sa/1WFJLucjK50_529/1WFJLucjK50_visage.wav",
       omniaudio: "./assets/v2sa/1WFJLucjK50_529/1WFJLucjK50_529_omni.wav",
-      s3audio: "./assets/v2sa/1WFJLucjK50_529/1WFJLucjK50_529.wav",
+      swansphere: "./assets/v2sa/1WFJLucjK50_529/1WFJLucjK50_529.wav",
     }
   },
   {
@@ -16,7 +16,7 @@ const V2SA_DEMOS = [
       gt: "./assets/v2sa/1whJPpizoDA_86/1whJPpizoDA_86_gt.wav",
       visage: "./assets/v2sa/1whJPpizoDA_86/1whJPpizoDA_visage.wav",
       omniaudio: "./assets/v2sa/1whJPpizoDA_86/1whJPpizoDA_86_omni.wav",
-      s3audio: "./assets/v2sa/1whJPpizoDA_86/1whJPpizoDA_86.wav",
+      swansphere: "./assets/v2sa/1whJPpizoDA_86/1whJPpizoDA_86.wav",
     }
   },
   {
@@ -26,7 +26,7 @@ const V2SA_DEMOS = [
       gt: "./assets/v2sa/9X2wM6HD_og_933/9X2wM6HD_og_933_gt.wav",
       visage: "./assets/v2sa/9X2wM6HD_og_933/9X2wM6HD_og_visage.wav",
       omniaudio: "./assets/v2sa/9X2wM6HD_og_933/9X2wM6HD_og_933_omni.wav",
-      s3audio: "./assets/v2sa/9X2wM6HD_og_933/9X2wM6HD_og_933.wav",
+      swansphere: "./assets/v2sa/9X2wM6HD_og_933/9X2wM6HD_og_933.wav",
     }
   },
   {
@@ -36,7 +36,7 @@ const V2SA_DEMOS = [
       gt: "./assets/v2sa/fQukntBmFvY_40/fQukntBmFvY_40_gt.wav",
       visage: "./assets/v2sa/fQukntBmFvY_40/fQukntBmFvY_visage.wav",
       omniaudio: "./assets/v2sa/fQukntBmFvY_40/fQukntBmFvY_40_omni.wav",
-      s3audio: "./assets/v2sa/fQukntBmFvY_40/fQukntBmFvY_40.wav",
+      swansphere: "./assets/v2sa/fQukntBmFvY_40/fQukntBmFvY_40.wav",
     }
   },
   {
@@ -46,7 +46,7 @@ const V2SA_DEMOS = [
       gt: "./assets/v2sa/OWN_J9FGZ5I_55/OWN_J9FGZ5I_55_gt.wav",
       visage: "./assets/v2sa/OWN_J9FGZ5I_55/OWN_J9FGZ5I_visage.wav",
       omniaudio: "./assets/v2sa/OWN_J9FGZ5I_55/OWN_J9FGZ5I_55_omni.wav",
-      s3audio: "./assets/v2sa/OWN_J9FGZ5I_55/OWN_J9FGZ5I_55.wav",
+      swansphere: "./assets/v2sa/OWN_J9FGZ5I_55/OWN_J9FGZ5I_55.wav",
     }
   },
   {
@@ -56,7 +56,7 @@ const V2SA_DEMOS = [
       gt: "./assets/v2sa/kMZSoni0etA_10/kMZSoni0etA_10_gt.wav",
       visage: "./assets/v2sa/kMZSoni0etA_10/kMZSoni0etA_visage.wav",
       omniaudio: "./assets/v2sa/kMZSoni0etA_10/kMZSoni0etA_10_omni.wav",
-      s3audio: "./assets/v2sa/kMZSoni0etA_10/kMZSoni0etA_10.wav",
+      swansphere: "./assets/v2sa/kMZSoni0etA_10/kMZSoni0etA_10.wav",
     }
   },
 ];
@@ -72,7 +72,7 @@ const T2SA_DEMOS = [
       gt: "./assets/t2sa/_yNwzbv3PeI_16/_yNwzbv3PeI_16_gt.wav",
       mmaudio_as: "./assets/t2sa/_yNwzbv3PeI_16/_yNwzbv3PeI_16_mm.wav",
       omniaudio_text: "./assets/t2sa/_yNwzbv3PeI_16/_yNwzbv3PeI_16_omni.wav",
-      s3audio: "./assets/t2sa/_yNwzbv3PeI_16/_yNwzbv3PeI_16.wav",
+      swansphere: "./assets/t2sa/_yNwzbv3PeI_16/_yNwzbv3PeI_16.wav",
     }
   },
   {
@@ -82,7 +82,7 @@ const T2SA_DEMOS = [
       gt: "./assets/t2sa/aieThfuvmtY_16/aieThfuvmtY_16_gt.wav",
       mmaudio_as: "./assets/t2sa/aieThfuvmtY_16/aieThfuvmtY_16_mm.wav",
       omniaudio_text: "./assets/t2sa/aieThfuvmtY_16/aieThfuvmtY_16_omni.wav",
-      s3audio: "./assets/t2sa/aieThfuvmtY_16/aieThfuvmtY_16.wav",
+      swansphere: "./assets/t2sa/aieThfuvmtY_16/aieThfuvmtY_16.wav",
     }
   },
   {
@@ -92,7 +92,7 @@ const T2SA_DEMOS = [
       gt: "./assets/t2sa/0B7ds6NmVBQ_30/0B7ds6NmVBQ_30_gt.wav",
       mmaudio_as: "./assets/t2sa/0B7ds6NmVBQ_30/0B7ds6NmVBQ_30_mm.wav",
       omniaudio_text: "./assets/t2sa/0B7ds6NmVBQ_30/0B7ds6NmVBQ_30_omni.wav",
-      s3audio: "./assets/t2sa/0B7ds6NmVBQ_30/0B7ds6NmVBQ_30.wav",
+      swansphere: "./assets/t2sa/0B7ds6NmVBQ_30/0B7ds6NmVBQ_30.wav",
     }
   },
   {
@@ -102,7 +102,7 @@ const T2SA_DEMOS = [
       gt: "./assets/t2sa/0FB9jMXMP8A_0/0FB9jMXMP8A_0_gt.wav",
       mmaudio_as: "./assets/t2sa/0FB9jMXMP8A_0/0FB9jMXMP8A_0_mm.wav",
       omniaudio_text: "./assets/t2sa/0FB9jMXMP8A_0/0FB9jMXMP8A_0_omni.wav",
-      s3audio: "./assets/t2sa/0FB9jMXMP8A_0/0FB9jMXMP8A_0.wav",
+      swansphere: "./assets/t2sa/0FB9jMXMP8A_0/0FB9jMXMP8A_0.wav",
     }
   },
   {
@@ -112,7 +112,7 @@ const T2SA_DEMOS = [
       gt: "./assets/t2sa/G8pABGosD38_17/G8pABGosD38_17_gt.wav",
       mmaudio_as: "./assets/t2sa/G8pABGosD38_17/G8pABGosD38l_17_mm.wav",
       omniaudio_text: "./assets/t2sa/G8pABGosD38_17/G8pABGosD38l_17_omni.wav",
-      s3audio: "./assets/t2sa/G8pABGosD38_17/G8pABGosD38_17.wav",
+      swansphere: "./assets/t2sa/G8pABGosD38_17/G8pABGosD38_17.wav",
     }
   },
   {
@@ -122,7 +122,7 @@ const T2SA_DEMOS = [
       gt: "./assets/t2sa/yhFN_xVmNsI_90/yhFN_xVmNsI_90_gt.wav",
       mmaudio_as: "./assets/t2sa/yhFN_xVmNsI_90/yhFN_xVmNsI_90_mm.wav",
       omniaudio_text: "./assets/t2sa/yhFN_xVmNsI_90/yhFN_xVmNsI_90_omni.wav",
-      s3audio: "./assets/t2sa/yhFN_xVmNsI_90/yhFN_xVmNsI_90.wav",
+      swansphere: "./assets/t2sa/yhFN_xVmNsI_90/yhFN_xVmNsI_90.wav",
     }
   },
 ];
@@ -459,7 +459,7 @@ function buildRow(demo){
   row.appendChild(makeCell(demo, "gt", "Ground Truth"));
   row.appendChild(makeCell(demo, "visage", "ViSAGe"));
   row.appendChild(makeCell(demo, "omniaudio", "OmniAudio"));
-  row.appendChild(makeCell(demo, "s3audio", "S3Audio"));
+  row.appendChild(makeCell(demo, "swansphere", "SwanSphere"));
   return row;
 }
 
@@ -590,7 +590,7 @@ function buildT2SARow(demo){
   row.appendChild(makeAudioOnlyCell(demo, "gt", "Ground Truth"));
   row.appendChild(makeAudioOnlyCell(demo, "mmaudio_as", "MMAudio+AS"));
   row.appendChild(makeAudioOnlyCell(demo, "omniaudio_text", "OmniAudio (text)"));
-  row.appendChild(makeAudioOnlyCell(demo, "s3audio", "S3Audio"));
+  row.appendChild(makeAudioOnlyCell(demo, "swansphere", "SwanSphere"));
 
   return row;
 }
